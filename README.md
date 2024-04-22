@@ -1,6 +1,6 @@
-# json-Translation
+# yaml-Translation
 
-这是一个翻译json中注释的python程序
+这是一个翻译yaml文件中注释的python程序
 
 如有建议，请联系我
 
